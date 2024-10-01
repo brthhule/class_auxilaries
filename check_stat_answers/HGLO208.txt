@@ -1,0 +1,29 @@
+﻿Amuri Field, DATA: 18.49'51"S, 159.45'51"W
+Robinson(Omoka) Field, DATA: 09.01'00"S, 158.01'51"W
+Funafuti Airfield, DATA: 08.31'29.50"S, 179.11'46.31"E
+Nanumea Airfield, DATA: 05.41'00"S, 176.07'44.4"E
+Nukufetau Airfield, DATA: 08.04'04"S, 178.22'35"E
+Nandi Airfield, DATA: 17.45'19"S, 177.26'36"E
+Nausori Airfield, DATA: 18.02'36"S, 178.33'33"E
+Magenta Airfield, DATA: 22.15'30"S, 166.28'22"E
+Plaine Des Gaiacs Airfield, DATA: 21.15'59.1"S, 164.54'42.1"E
+Tontouta Airfield, DATA: 22.00'59"S, 166.12'58"E
+Pekoa Airfield, DATA: 15.30'18.12"S, 167.13'11.07"E
+Palikulo Bay Airfield, DATA: 15.30'06"S, 167.14'45"E
+Luganville Airfield, DATA: 15.30'17"S, 167.07'12"E
+Turtle Bay Airfield, DATA: 15.22'41"S, 167.10'45"E
+Efate Airfield, DATA: 17.41'58"S, 168.19'12"E
+Whenuapai Airport, DATA: 36.47'16"S, 174.37'49"E
+Norfolk Airport, DATA: 29.02'30"S, 167.56'19"E
+Bora Bora Airfield, DATA: 16.26'46"S, 151.45'16"W
+Piva Uncle(North) Field, DATA: 06.13'S, 155.04'E
+Piva Yoke(South) Field, DATA: 06.13'S, 155.04'E
+Buka Airfield, DATA: 05.25'20.34"S, 154.40'21.60"E
+Carney Airfield, DATA: 09.26'07.51"S, 160.09'34.48"E
+Henderson Field, DATA: 09.25'40.8"S, 160.03'17.24"E
+Koli Airfield, DATA: 09.27'28.94"S, 160.10'41.50"E
+Kukum Field, DATA: 09.25'34"S, 160.00'39"E
+Munda Airfield, DATA: 08.19'40.69"S, 157.15'47.13"E
+Renard Field, DATA: 09.05'34"S, 159.13'08"E
+Sunlight Field, DATA: 09.03'53"S, 159.12'51"E
+Tongatubu Airfield, DATA: 21.14'28"S, 175.08'58"W

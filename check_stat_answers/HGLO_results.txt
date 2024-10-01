@@ -1,0 +1,94 @@
+Bases: 
+﻿Amuri Field
+Robinson(Omoka) Field
+Funafuti Airfield
+Nanumea Airfield
+Nukufetau Airfield
+Nandi Airfield
+Nausori Airfield
+Magenta Airfield
+Plaine Des Gaiacs Airfield
+Tontouta Airfield
+Pekoa Airfield
+Palikulo Bay Airfield
+Luganville Airfield
+Turtle Bay Airfield
+Efate Airfield
+Whenuapai Airport
+Norfolk Airport
+Bora Bora Airfield
+Piva Uncle(North) Field
+Piva Yoke(South) Field
+Buka Airfield
+Carney Airfield
+Henderson Field
+Koli Airfield
+Kukum Field
+Munda Airfield
+Renard Field
+Sunlight Field
+Tongatubu Airfield
+
+
+Latitude: 
+-159.764167
+-158.030833
+179.196197
+176.129000
+178.376389
+177.443333
+178.559167
+166.472778
+164.911694
+166.216111
+167.219742
+167.245833
+167.120000
+167.179167
+168.320000
+174.630278
+167.938611
+-151.754444
+155.066667
+155.066667
+154.672667
+160.159578
+160.054789
+160.178194
+160.010833
+157.263092
+159.218889
+159.214167
+-175.149444
+
+
+Longitude: 
+-18.830833
+-9.016667
+-8.524861
+-5.683333
+-8.067778
+-17.755278
+-18.043333
+-22.258333
+-21.266417
+-22.016389
+-15.505033
+-15.501667
+-15.504722
+-15.378056
+-17.699444
+-36.787778
+-29.041667
+-16.446111
+-6.216667
+-6.216667
+-5.422317
+-9.435419
+-9.428000
+-9.458039
+-9.426111
+-8.327969
+-9.092778
+-9.064722
+-21.241111
